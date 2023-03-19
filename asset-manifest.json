@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Rounah/static/css/main.b4795c2b.css",
+    "main.js": "/Rounah/static/js/main.887ea6a3.js",
+    "static/media/detail_bg.png": "/Rounah/static/media/detail_bg.eb5638a49323ce101db9.png",
+    "static/media/section.png": "/Rounah/static/media/section.2e5fef7b5e91f2d724cc.png",
+    "static/media/cheese.png": "/Rounah/static/media/cheese.98f97356c33c50531107.png",
+    "static/media/section4.png": "/Rounah/static/media/section4.b6980a1a0018bc118083.png",
+    "static/media/mouse.png": "/Rounah/static/media/mouse.066110ce1fe8515184d4.png",
+    "static/media/slider_five.jpeg": "/Rounah/static/media/slider_five.abadf85e9b53a2207937.jpeg",
+    "static/media/slider_sex.jpeg": "/Rounah/static/media/slider_sex.3f431e6b28913732d965.jpeg",
+    "static/media/slider_four.jpeg": "/Rounah/static/media/slider_four.986511bf40ed52764ad0.jpeg",
+    "static/media/slider_two.jpeg": "/Rounah/static/media/slider_two.d4b99256831fc90de3b0.jpeg",
+    "static/media/slider_three.jpeg": "/Rounah/static/media/slider_three.13b392cc0eeaa243813d.jpeg",
+    "static/media/customer2.png": "/Rounah/static/media/customer2.87e5bdf85f61f17567bc.png",
+    "static/media/customer2 (2).png": "/Rounah/static/media/customer2 (2).8fc97cf2b6553b734741.png",
+    "static/media/products.png": "/Rounah/static/media/products.1ed44e8650c7bb0157a3.png",
+    "static/media/Sa.png": "/Rounah/static/media/Sa.be2d77f2db3ca4f9ca45.png",
+    "static/media/Us.webp": "/Rounah/static/media/Us.ee8810b5d427f2bbfc53.webp",
+    "index.html": "/Rounah/index.html",
+    "main.b4795c2b.css.map": "/Rounah/static/css/main.b4795c2b.css.map",
+    "main.887ea6a3.js.map": "/Rounah/static/js/main.887ea6a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4795c2b.css",
+    "static/js/main.887ea6a3.js"
+  ]
+}
