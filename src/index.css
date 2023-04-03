@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Tajawal', sans-serif !important;
+    background-color: white;
+
+}
+html {
+    scroll-behavior: smooth;
+}
+:root {
+    --mainColor: #5559CE;
+    --secColor : #E38C5B;
+}
+
+/* section {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    max-width: 100%;
+    padding: 30px 0;
+    margin-top: 50px;
+} */
+
+a {
+    text-decoration: none !important;
+}
+ul li {
+    list-style: none;
+}

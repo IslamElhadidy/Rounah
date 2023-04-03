@@ -1,0 +1,73 @@
+
+.active ,
+.navbar-nav a:hover {
+    color: #007C0C !important;
+    transition: 0.5s all;
+    background-color: #c3c3d8;
+    padding: 5px 10px;
+    border-radius: 10px;
+    white-space: nowrap;
+
+  
+}
+.navbar-brand img:hover {
+    animation: rotate 10s alternate-reverse infinite ;
+}
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.navbar-nav  {
+    gap: 30px;
+
+}
+@media (max-width:767px) {
+    .navbar-nav ,
+    .navbar-nav button
+      {
+       text-align: end;
+       justify-content: end;
+    }
+    .navbar-nav button {
+        margin-left: -10px;
+    }
+}
+.navbar-nav a {
+    font-weight: 600;
+    color: #2F2D88;
+    transition: 0.5s all;
+    white-space: nowrap !important;
+}
+.navbar-nav button img {
+    margin-top: -13px !important;
+}
+.navbar-nav button {
+    border: none !important;
+    box-shadow: none !important;
+    margin-top: 3px;
+}
+@media (max-width:991px) {
+    .nav__container {
+        gap: 30px !important;
+    }
+    .navbar-nav {
+        font-size: 13px;
+        margin-top: 17px;
+        display: flex;
+        gap: 10px !important;
+
+    }
+}
+@media (max-width:832px) {
+    .navbar-nav {
+        font-size: 12px;
+        margin-top: 15px;
+    }
+}
+.special_lang_btn {
+    background-color: transparent !important;
+}

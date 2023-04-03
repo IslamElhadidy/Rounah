@@ -1,0 +1,35 @@
+.about h2 {
+    color: #007C0C;
+    font-weight: 600;
+}
+.march__ {
+    padding-top: 100px !important;
+}
+.bounties__  {
+    margin-top: 140px;
+    background-color: #c2e0c5;
+    padding: 50px 40px;
+}
+.our__customers {
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+.our__customers h2 {
+    color: #2F2D88;
+}
+.our__customers img {
+    max-width: 80%;
+}
+.customer__1 ,
+.customer__2 {
+    padding-top: 40px;
+}
+.customer__1 img ,
+.customer__2 img{
+    background: #FFFFFF;
+    /* box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25); */
+    border-radius: 14px;
+}
+.customer__1 img  {
+    padding: 15px 20px;
+}
